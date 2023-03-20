@@ -1,7 +1,7 @@
 
 ## WeatherCheck
 
-Direct Link: (https://zmonk91.github.io/WeatherCheck/)[https://zmonk91.github.io/WeatherCheck/]
+Direct Link: [https://zmonk91.github.io/WeatherCheck/](https://zmonk91.github.io/WeatherCheck/)
 
 ### Description
 This is a Single Page App created in React that uses multiple API calls to collect the requested city's location and then displays the weather.
